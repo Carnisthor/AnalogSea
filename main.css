@@ -1,0 +1,67 @@
+body {
+    background-color: cadetblue;
+    padding: 100px;
+    font-family: "Roboto", serif;
+}
+
+header {
+    text-align: center
+}
+
+.logo {
+    height: 35px;
+    padding: 35px;
+}
+
+.sign-up-form {
+    background-color: white;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+h1 {
+    font-size: 30px;
+    padding: 35px;
+    text-align: center;
+}
+
+.sign-up-form fieldset {
+    padding: 15px;
+    border: none;
+    text-align: center;
+}
+
+.sign-up-form input {
+    width: 320px;
+    border: 2px solid lightgrey;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 15px;
+}
+
+.sign-up-form button {
+    padding: 15px;
+    margin: 15px;
+    width: 320px;
+    background-color: darkseagreen;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: darkslategray;
+}
+
+.sign-up-form a {
+    color: grey;
+}
+
+.rest {
+    text-align: center;
+    color: white;
+    font-size: 13px
+}
